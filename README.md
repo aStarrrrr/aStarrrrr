@@ -76,12 +76,7 @@
 </p>
 
 <h3 align="left">Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astarrrrr&theme=radical" alt="GitHub Streak Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=astarrrrr&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=astarrrrr&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
