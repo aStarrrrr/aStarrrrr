@@ -65,7 +65,8 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-    <img sr
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40" />
+  </a>
 
 <h3 align="left">Stats:</h3>
 
