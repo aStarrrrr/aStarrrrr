@@ -77,8 +77,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".net" width="40" height="40" />
 </a>
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/8/8e/Microsoft_ASP.NET_logo.png](https://image.pngaaa.com/927/5413927-middle.png)" alt="asp.net" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="asp.net" width="40" height="40" />
 </a>
+
 
 <h3 align="left">Stats:</h3>
 
